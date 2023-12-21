@@ -21,4 +21,6 @@ I believe that backend strength is the foundation for a robust and reliable syst
 
 ## 📊  Github Stats:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCSPereira&layout=donut&theme=aura)  
+
 ![MarcusCSPereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusCSPereira&hide=stars&showicons=true&theme=aura)
