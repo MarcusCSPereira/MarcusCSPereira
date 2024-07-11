@@ -6,13 +6,17 @@
 
 ## 🚀 Expertise:
 
-  My main focus is on the backend, where I find my passion for the most analytical part of a system. I love working behind the scenes, organizing data input and output to ensure everything runs smoothly. The logic behind how a system works is what fascinates me, and dedicating my studies to the backend allows me to delve deeply into this aspect.
+My main focus is currently on mobile application development, particularly for iOS, watchOS, and iPadOS. I am studying Swift and SwiftUI to create seamless and intuitive user experiences. I believe that a solid technical foundation is crucial for building robust and reliable systems.
 
-I believe that backend strength is the foundation for a robust and reliable system.
+I enjoy both the idea of creating interactive interfaces and developing what happens behind the scenes of an application. I have a passion for the logic behind how systems work and enjoy organizing data input and output to ensure everything runs smoothly. This analytical mindset, developed through my studies in backend development, enhances my approach to mobile development, allowing me to build efficient and innovative applications.
+
+I believe that the combination of an interactive interface and a solid backend is the key to developing robust and reliable mobile applications.
+
+
 
 ## 💻  Tech Stats:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌐  Socials:
