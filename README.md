@@ -57,10 +57,7 @@
 ###
 
 <h3 align="left">📊  Github Stats:</h3>
-
-###
-
-<img align="right" height="200" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/48b74ed45987c6c6bf554b30f3afbd4f.gif"  />
+<img align="right" height="180" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/fcab62316b56f66ea4a4268fae3335a4.gif"  />
 
 ###
 
@@ -68,10 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MarcusCSPereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusCSPereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
