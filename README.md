@@ -75,6 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MarcusCSPereira/MarcusCSPereira/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/MarcusCSPereira/MarcusCSPereira/blob/output/github-contribution-grid-snake.svg)
 
 ###
