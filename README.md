@@ -2,64 +2,95 @@
 
 ###
 
-<p align="left">I'm Marcus César, a 20-year-old computer enthusiast who is embarking on the journey of graduating in Computer Science at UESB. I see each challenge as an opportunity to learn and grow, and I am constantly looking to improve my skills, especially in backend development with Java Spring and Python Django.<br><br>I believe that the academic journey is a unique opportunity to expand horizons, collaborate with brilliant minds, and contribute to the advancement of technology. I'm here to discover new things, grow, and, above all, learn more every day.</p>
+<p align="justify">
+I'm Marcus César, a 7th-semester Computer Science student at UESB, focused on backend development, enterprise integrations, software architecture, and competitive programming.
+<br><br>
+My main stack is centered on <strong>Ruby on Rails</strong>, <strong>Java with Spring Boot</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building backend systems, APIs, relational database solutions, and maintainable server-side applications.
+<br><br>
+Alongside my backend stack, I also work with <strong>SAP technologies</strong> as a central part of my experience in enterprise integrations. My SAP background includes <strong>ABAP development</strong>, <strong>SAP BTP</strong>, <strong>SAP Integration Suite / Cloud Integration (CPI)</strong>, <strong>SOAP/WSDL-based integrations</strong>, <strong>SOAMANAGER service configuration</strong>, <strong>CDS Views</strong>, <strong>OData service exposure</strong>, and studies involving <strong>ABAP RAP</strong>.
+<br><br>
+I approach software development with an architectural mindset, combining backend engineering, system integration experience, SAP enterprise solutions, and algorithmic reasoning from competitive programming to design reliable, scalable, and maintainable systems.
+</p>
 
 ###
 
-<h2 align="left">🚀 Expertise:</h2>
+<h2 align="left">🚀 Main Focus</h2>
 
 ###
 
-<p align="left">My main focus is currently on backend development, particularly using Java Spring Boot to create efficient and scalable systems. Additionally, I have experience with Python and Django Rest Framework, which allow me to develop RESTful APIs to meet complex requirements.<br><br>I also have solid knowledge of relational databases such as PostgreSQL, MySQL, and SQLite, covering everything from data modeling to executing optimized queries. I understand the importance of well-structured data to ensure system integrity and performance, and I am familiar with integrating databases into backend applications for high-performance solutions.<br><br>I enjoy both organizing complex backend systems and ensuring seamless communication with frontend applications. I am passionate about the logic behind how systems work, organizing data flow, and ensuring the robustness and scalability of applications.<br><br>I believe that the combination of a solid backend foundation, effective API design, and strong database expertise is the key to building reliable and efficient applications.</p>
+<p align="left">
+🎓 7th-semester Computer Science student at UESB<br>
+💻 Backend stack: Ruby on Rails, Java, Spring Boot, REST APIs, SQL and C++<br>
+🧩 SAP experience with ABAP, SAP BTP, SAP Integration Suite / CPI, SOAP/WSDL, SOAMANAGER, CDS Views, OData and ABAP RAP<br>
+🔗 Focused on system integration, API design, clean architecture and maintainable software<br>
+🧠 Architectural thinking applied to backend systems, enterprise integrations and software evolution<br>
+🤖 Competitive programming enthusiast, focused on algorithms, data structures and complexity analysis<br>
+🌱 Always improving through study, real-world projects and problem-solving practice
+</p>
 
 ###
 
-<h2 align="left">💻 Tech Stats:</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
 <div align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="ruby on rails" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="abap" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap btp" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/SAP_Integration_Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap integration suite" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/CDS_Views-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="cds views" style="vertical-align:top; margin:4px">
 </div>
 
 ###
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left">🏆 Competitive Programming</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcuscspereira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:contato.marcuscspereira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-  </a>
-</div>
+<p align="justify">
+Competitive programming is my main hobby and an important part of how I think about software architecture.
+<br><br>
+Solving algorithmic problems strengthens my ability to reason about complexity, data structures, edge cases, constraints and efficient solutions. This directly influences how I design backend systems and integrations: with attention to performance, clarity, scalability and long-term maintainability.
+</p>
 
 ###
 
-<h2 align="left">📊 Github Stats:</h3>
+<h2 align="left">🌐 Socials</h2>
 
 ###
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusCSPereira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusCSPereira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph" />
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/marcuscspereira/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:contato.marcuscspereira@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 ###
 
