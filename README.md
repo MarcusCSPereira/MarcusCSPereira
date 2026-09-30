@@ -87,22 +87,3 @@ Solving algorithmic problems strengthens my ability to reason about complexity, 
     </td>
   </tr>
 </table>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcusCSPereira&theme=github-dark-blue&hide_border=true&disable_animations=true" alt="GitHub contributions and streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcusCSPereira/MarcusCSPereira/output/contributions-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MarcusCSPereira/MarcusCSPereira/output/contributions-light.svg" alt="GitHub contribution graph" />
-  </picture>
-</div>
