@@ -101,5 +101,8 @@ Solving algorithmic problems strengthens my ability to reason about complexity, 
 <br>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/MarcusCSPereira" alt="GitHub contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcusCSPereira/MarcusCSPereira/output/contributions-dark.svg" />
+    <img src="https://raw.githubusercontent.com/MarcusCSPereira/MarcusCSPereira/output/contributions-light.svg" alt="GitHub contribution graph" />
+  </picture>
 </div>
