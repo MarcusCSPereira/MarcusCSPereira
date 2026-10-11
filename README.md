@@ -50,7 +50,6 @@ I approach software development with an architectural mindset, combining backend
 <div align="center">
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="abap" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap btp" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/SAP_Integration_Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap integration suite" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/CDS_Views-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="cds views" style="vertical-align:top; margin:4px">
 </div>
