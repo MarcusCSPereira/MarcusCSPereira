@@ -7,7 +7,7 @@
 <p align="justify">
 I'm Marcus César, a software developer and Computer Science student at UESB. My main interests are <strong>competitive programming</strong>, <strong>algorithms</strong>, and <strong>software architecture</strong>.
 <br><br>
-I write contest solutions and algorithm implementations in <strong>C++</strong>, and build applications with <strong>Java and Spring Boot</strong> and <strong>Ruby on Rails</strong>.
+I write contest solutions and algorithm implementations in <strong>C++</strong>, and build applications with <strong>Java and Spring Boot</strong>, as well as <strong>Ruby on Rails</strong>.
 </p>
 
 ###

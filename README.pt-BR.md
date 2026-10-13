@@ -7,7 +7,7 @@
 <p align="justify">
 Sou Marcus César, desenvolvedor de software e estudante de Ciência da Computação na UESB. Meus principais interesses são <strong>programação competitiva</strong>, <strong>algoritmos</strong> e <strong>arquitetura de software</strong>.
 <br><br>
-Escrevo soluções de competições e implementações de algoritmos em <strong>C++</strong> e desenvolvo aplicações com <strong>Java e Spring Boot</strong> e <strong>Ruby on Rails</strong>.
+Escrevo soluções de competições e implementações de algoritmos em <strong>C++</strong> e desenvolvo aplicações com <strong>Java e Spring Boot</strong>, além de <strong>Ruby on Rails</strong>.
 </p>
 
 ###
