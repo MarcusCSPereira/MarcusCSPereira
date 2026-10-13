@@ -5,9 +5,9 @@
 ###
 
 <p align="justify">
-I'm Marcus César, a Computer Science student at UESB. <strong>Competitive programming is my main hobby</strong>, and my main interests are algorithms, data structures, and software development.
+I'm Marcus César, a software developer and Computer Science student at UESB. My main interests are <strong>competitive programming</strong>, <strong>algorithms</strong>, and <strong>software architecture</strong>.
 <br><br>
-At V360, I work on applications and system integrations with <strong>Java and Spring Boot</strong> and <strong>Ruby on Rails</strong>. I also contribute to projects involving AI.
+I write contest solutions and algorithm implementations in <strong>C++</strong>, and build applications with <strong>Java and Spring Boot</strong> and <strong>Ruby on Rails</strong>.
 </p>
 
 ###
@@ -17,28 +17,27 @@ At V360, I work on applications and system integrations with <strong>Java and Sp
 ###
 
 <p align="justify">
-I practice in <strong>C++17</strong>, algorithm implementations, and study notes.
-<br><br>
-I enjoy comparing approaches to the same problem, analyzing time and memory complexity, and turning an idea into an implementation. My studies include <strong>STL</strong>, <strong>graphs</strong>, <strong>dynamic programming</strong>, <strong>greedy algorithms</strong>, and <strong>number theory</strong>.
+Competitive programming is my main hobby. I use <strong>C++17</strong> to study data structures and algorithms, comparing solutions by their time and memory complexity.
 <br><br>
 In 2026, I participated in the <strong>ICPC subregional contest</strong>, where my team finished <strong>2nd at our host site</strong>.
 <br><br>
- <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a>
+My <a href="https://github.com/MarcusCSPereira/competitive_programming">competitive programming notebook</a> brings together contest solutions, implementations, and notes on STL, graphs, dynamic programming, greedy algorithms, and number theory.
+<br><br>
+<a href="https://github.com/MarcusCSPereira/competitive_programming">C++ notebook</a> · <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a>
 </p>
 
 ###
 
-<h2 align="left">🚀 Main Focus</h2>
+<h2 align="left">📚 Projects and Studies</h2>
 
 ###
 
-<p align="left">
-🏆 Competitive programming in C++17 and ICPC practice<br>
-🧠 Algorithms, data structures, and complexity analysis<br>
-🎓 Computer Science at UESB, expected graduation in December 2027<br>
-💻 Application development with Java, Spring Boot, and Ruby on Rails<br>
-🔗 APIs, relational databases, and system integrations
-</p>
+<ul>
+  <li><a href="https://github.com/MarcusCSPereira/SpringProfessional_desafio05">Spring Professional</a>: a course project with Java, Spring Boot, and a commerce REST API.</li>
+  <li><a href="https://github.com/MarcusCSPereira/Faculdade_Prog-Concorrente">Concurrent Programming</a>: Java coursework on threads, synchronization, and classic concurrency problems.</li>
+  <li><a href="https://github.com/MarcusCSPereira/MealMatch">MealMatch</a>: a team-built desktop application for recipes, using JavaFX and PostgreSQL.</li>
+  <li><a href="https://github.com/MarcusCSPereira/rails-notebook-api">Rails Notebook API</a>: a study project with contact management and token authentication.</li>
+</ul>
 
 ###
 
