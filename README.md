@@ -1,44 +1,95 @@
-# Marcus César
+<h2 align="left">👋 Hi there</h2>
 
-[Português](README.pt-BR.md) · [LinkedIn](https://www.linkedin.com/in/marcuscspereira/) · [ICPC ID](https://icpc.global/ICPCID/B9GB7UBU9KIC)
+<p align="left"><a href="README.pt-BR.md">Português</a></p>
 
-I'm a Computer Science student at UESB, in Vitória da Conquista, Brazil, with an expected graduation in December 2027. I enjoy understanding how things work, experimenting with ideas, and turning what I learn into something I can use.
+###
 
-**Competitive programming is my main hobby and one of the parts of computing I enjoy most.** I practice in C++, study algorithms and data structures, and work through the reasoning behind each solution. I like discussing approaches with teammates, testing an idea, and figuring out why it works. In 2026, I participated in the ICPC subregional contest.
+<p align="justify">
+I'm Marcus César, a Computer Science student at UESB, with an expected graduation in December 2027. My interests include software development, software architecture, AI agents, and competitive programming.
+<br><br>
+My main stack is centered on <strong>Java with Spring Boot</strong>, <strong>Ruby on Rails</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building applications, REST APIs, and relational database solutions. In Java, I work with <strong>Spring Security</strong> and <strong>JPA</strong> for authentication, authorization, and persistence.
+<br><br>
+I also work with <strong>AI agents</strong> and <strong>LLMs</strong>, applying <strong>Agent Orchestration</strong>, <strong>Context Engineering</strong>, <strong>Tool Calling</strong>, <strong>RAG</strong>, <strong>Knowledge Graphs</strong>, and <strong>Model Context Protocol (MCP)</strong>. During the CEPEDI software residency, I contributed to local <strong>Llama</strong> inference integrated with our team's cloud-hosted learning platform for generating assessment questions.
+<br><br>
+I approach software development with an architectural mindset, combining application development, system integration experience, and algorithmic reasoning from competitive programming to design reliable and maintainable systems.
+</p>
 
-I also build applications, integrations, and AI agents at V360. My experience includes Java with Spring Boot, Ruby on Rails, relational databases, and software architecture. I learn through projects, reading code, exchanging ideas with colleagues, and competitive programming.
+###
 
-## Competitive programming
+<h2 align="left">🚀 Main Focus</h2>
 
-My [competitive programming notebook](https://github.com/MarcusCSPereira/competitive_programming) contains C++17 solutions and studies organized by problem rating, contests, ICPC, and coursework.
+###
 
-- Algorithms, data structures, and complexity analysis.
-- Studies in STL, greedy algorithms, graphs, dynamic programming, and number theory.
-- [ICPC profile: B9GB7UBU9KIC](https://icpc.global/ICPCID/B9GB7UBU9KIC).
+<p align="left">
+🎓 Computer Science student at UESB, expected graduation in December 2027<br>
+💻 Software stack: Java, Spring Boot, Spring Security, JPA, Ruby on Rails, REST APIs and SQL<br>
+🧩 AI agents: LLMs, Agent Orchestration, Context Engineering, Tool Calling, RAG, Knowledge Graphs and MCP<br>
+🔗 Focused on system integration, API design, clean architecture and maintainable software<br>
+🧠 Architectural thinking applied to applications, system integrations and software evolution<br>
+🏆 Competitive programming is my main hobby: C++17, algorithms, data structures and complexity analysis<br>
+🌱 Always improving through study, real-world projects and problem-solving practice
+</p>
 
-## Software and AI
+###
 
-I work on applications and integrations that automate processes, and on agents that connect language models to tools and technical knowledge. My AI work includes agent orchestration, context engineering, tool calling, RAG, knowledge graphs, and Model Context Protocol (MCP).
+<h2 align="left">💻 Tech Stack</h2>
 
-During the CEPEDI software residency, I contributed to applications and to local Llama inference integrated with our team's cloud-hosted learning platform for generating assessment questions.
+###
 
-| Area | Technologies and concepts |
-| --- | --- |
-| Software development | Java, Spring Boot, Spring Security, JPA, Ruby on Rails, SQL, PostgreSQL |
-| AI engineering | LLMs, Agent Orchestration, Context Engineering, Tool Calling, RAG, Knowledge Graphs, MCP |
-| Algorithms | C++17, data structures, complexity analysis |
-| Engineering tools | Git, GitHub Actions, Docker, Docker Compose, REST APIs, OpenAPI |
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="spring security" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="jpa" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="ruby on rails" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
+</div>
 
-## Selected work
+<br>
 
-| Repository | What you'll find |
-| --- | --- |
-| [competitive_programming](https://github.com/MarcusCSPereira/competitive_programming) | My C++ notebook, contest solutions, and algorithm studies. |
-| [SpringProfessional_desafio05](https://github.com/MarcusCSPereira/SpringProfessional_desafio05) | A Spring Professional course exercise: a commerce API with Java 21, Spring Boot, JPA, and role-based access control. |
-| [Faculdade_Prog-Concorrente](https://github.com/MarcusCSPereira/Faculdade_Prog-Concorrente) | Java coursework on threads, synchronization, and classic concurrency problems, with JavaFX interfaces. |
-| [MealMatch](https://github.com/MarcusCSPereira/MealMatch) | A team-built desktop application for managing and sharing recipes, using Java, JavaFX, and PostgreSQL. |
-| [rails-notebook-api](https://github.com/MarcusCSPereira/rails-notebook-api) | A Rails study project with versioned APIs, contact management, and token authentication. |
+<div align="center">
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Agent_Orchestration-7C3AED?style=for-the-badge" alt="agent orchestration" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Knowledge_Graphs-7C3AED?style=for-the-badge" alt="knowledge graphs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="Model Context Protocol" style="vertical-align:top; margin:4px">
+</div>
 
-## Contact
+###
 
-[LinkedIn](https://www.linkedin.com/in/marcuscspereira/) · [contato.marcuscspereira@gmail.com](mailto:contato.marcuscspereira@gmail.com)
+<h2 align="left">🏆 Competitive Programming</h2>
+
+###
+
+<p align="justify">
+Competitive programming is my main hobby and an important part of how I think about software architecture.
+<br><br>
+Solving algorithmic problems strengthens my ability to reason about complexity, data structures, edge cases, constraints and efficient solutions. This directly influences how I design applications and integrations: with attention to performance, clarity, scalability and long-term maintainability.
+<br><br>
+In 2026, I participated in the ICPC subregional contest. You can find my <a href="https://github.com/MarcusCSPereira/competitive_programming">C++ competitive programming notebook</a> and my <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC profile</a> here.
+</p>
+
+###
+
+<h2 align="left">🌐 Socials</h2>
+
+###
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/marcuscspereira/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:contato.marcuscspereira@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+      </a>
+    </td>
+  </tr>
+</table>
