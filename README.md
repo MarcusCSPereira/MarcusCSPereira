@@ -17,13 +17,13 @@ At V360, I work on applications and system integrations with <strong>Java and Sp
 ###
 
 <p align="justify">
-I practice in <strong>C++17</strong> and keep a <a href="https://github.com/MarcusCSPereira/competitive_programming">competitive programming notebook</a> with contest solutions, algorithm implementations, and study notes.
+I practice in <strong>C++17</strong>, algorithm implementations, and study notes.
 <br><br>
 I enjoy comparing approaches to the same problem, analyzing time and memory complexity, and turning an idea into an implementation. My studies include <strong>STL</strong>, <strong>graphs</strong>, <strong>dynamic programming</strong>, <strong>greedy algorithms</strong>, and <strong>number theory</strong>.
 <br><br>
 In 2026, I participated in the <strong>ICPC subregional contest</strong>, where my team finished <strong>2nd at our host site</strong>.
 <br><br>
-<a href="https://github.com/MarcusCSPereira/competitive_programming">C++ notebook</a> · <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a>
+ <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a>
 </p>
 
 ###
@@ -50,8 +50,6 @@ In 2026, I participated in the <strong>ICPC subregional contest</strong>, where 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="spring security" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="jpa" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="ruby on rails" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
