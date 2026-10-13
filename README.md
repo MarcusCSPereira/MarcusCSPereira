@@ -7,7 +7,7 @@
 <p align="justify">
 I'm Marcus César, a Computer Science student at UESB, with an expected graduation in December 2027. My interests include software development, software architecture, AI agents, and competitive programming.
 <br><br>
-My main stack is centered on <strong>Java with Spring Boot</strong>, <strong>Ruby on Rails</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building applications, REST APIs, and relational database solutions. In Java, I work with <strong>Spring Security</strong> and <strong>JPA</strong> for authentication, authorization, and persistence.
+My main stack is centered on <strong>Java with Spring Boot</strong>, <strong>Ruby on Rails</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building applications, REST APIs, and relational database solutions.
 <br><br>
 I also work with <strong>AI agents</strong> and <strong>LLMs</strong>, applying <strong>Agent Orchestration</strong>, <strong>Context Engineering</strong>, <strong>Tool Calling</strong>, <strong>RAG</strong>, <strong>Knowledge Graphs</strong>, and <strong>Model Context Protocol (MCP)</strong>. During the CEPEDI software residency, I contributed to local <strong>Llama</strong> inference integrated with our team's cloud-hosted learning platform for generating assessment questions.
 <br><br>

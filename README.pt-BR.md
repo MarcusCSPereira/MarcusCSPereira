@@ -7,7 +7,7 @@
 <p align="justify">
 Sou Marcus César, estudante de Ciência da Computação na UESB, com conclusão prevista em dezembro de 2027. Meus interesses incluem desenvolvimento de software, arquitetura de software, agentes de IA e programação competitiva.
 <br><br>
-Minha stack principal é composta por <strong>Java com Spring Boot</strong>, <strong>Ruby on Rails</strong>, <strong>SQL</strong> e <strong>C++</strong>, com experiência no desenvolvimento de aplicações, APIs REST e soluções com bancos relacionais. Em Java, utilizo <strong>Spring Security</strong> e <strong>JPA</strong> para autenticação, autorização e persistência.
+Minha stack principal é composta por <strong>Java com Spring Boot</strong>, <strong>Ruby on Rails</strong>, <strong>SQL</strong> e <strong>C++</strong>, com experiência no desenvolvimento de aplicações, APIs REST e soluções com bancos relacionais.
 <br><br>
 Também trabalho com <strong>agentes de IA</strong> e <strong>LLMs</strong>, aplicando <strong>Agent Orchestration</strong>, <strong>Context Engineering</strong>, <strong>Tool Calling</strong>, <strong>RAG</strong>, <strong>Knowledge Graphs</strong> e <strong>Model Context Protocol (MCP)</strong>. Durante a residência de software do CEPEDI, participei da integração da execução local do <strong>Llama</strong> à plataforma de capacitação própria da equipe, hospedada na nuvem, para geração de questões de avaliações.
 <br><br>
