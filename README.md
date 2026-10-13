@@ -1,88 +1,44 @@
-<h2 align="left">👋 Hi there</h2>
+# Marcus César
 
-###
+[Português](README.pt-BR.md) · [LinkedIn](https://www.linkedin.com/in/marcuscspereira/) · [ICPC ID](https://icpc.global/ICPCID/B9GB7UBU9KIC)
 
-<p align="justify">
-I'm Marcus César, a 7th-semester Computer Science student at UESB, focused on backend development, enterprise integrations, software architecture, and competitive programming.
-<br><br>
-My main stack is centered on <strong>Ruby on Rails</strong>, <strong>Java with Spring Boot</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building backend systems, APIs, relational database solutions, and maintainable server-side applications.
-<br><br>
-Alongside my backend stack, I also work with <strong>SAP technologies</strong> as a central part of my experience in enterprise integrations. My SAP background includes <strong>ABAP development</strong>, <strong>SAP BTP</strong>, <strong>SAP Integration Suite / Cloud Integration (CPI)</strong>, <strong>SOAP/WSDL-based integrations</strong>, <strong>SOAMANAGER service configuration</strong>, <strong>CDS Views</strong>, <strong>OData service exposure</strong>, and studies involving <strong>ABAP RAP</strong>.
-<br><br>
-I approach software development with an architectural mindset, combining backend engineering, system integration experience, SAP enterprise solutions, and algorithmic reasoning from competitive programming to design reliable, scalable, and maintainable systems.
-</p>
+I'm a Computer Science student at UESB, in Vitória da Conquista, Brazil, with an expected graduation in December 2027. I enjoy understanding how things work, experimenting with ideas, and turning what I learn into something I can use.
 
-###
+**Competitive programming is my main hobby and one of the parts of computing I enjoy most.** I practice in C++, study algorithms and data structures, and work through the reasoning behind each solution. I like discussing approaches with teammates, testing an idea, and figuring out why it works. In 2026, I participated in the ICPC subregional contest.
 
-<h2 align="left">🚀 Main Focus</h2>
+I also build applications, integrations, and AI agents at V360. My experience includes Java with Spring Boot, Ruby on Rails, relational databases, and software architecture. I learn through projects, reading code, exchanging ideas with colleagues, and competitive programming.
 
-###
+## Competitive programming
 
-<p align="left">
-🎓 7th-semester Computer Science student at UESB<br>
-💻 Backend stack: Ruby on Rails, Java, Spring Boot, REST APIs, SQL and C++<br>
-🧩 SAP experience with ABAP, SAP BTP, SAP Integration Suite / CPI, SOAP/WSDL, SOAMANAGER, CDS Views, OData and ABAP RAP<br>
-🔗 Focused on system integration, API design, clean architecture and maintainable software<br>
-🧠 Architectural thinking applied to backend systems, enterprise integrations and software evolution<br>
-🤖 Competitive programming enthusiast, focused on algorithms, data structures and complexity analysis<br>
-🌱 Always improving through study, real-world projects and problem-solving practice
-</p>
+My [competitive programming notebook](https://github.com/MarcusCSPereira/competitive_programming) contains C++17 solutions and studies organized by problem rating, contests, ICPC, and coursework.
 
-###
+- Algorithms, data structures, and complexity analysis.
+- Studies in STL, greedy algorithms, graphs, dynamic programming, and number theory.
+- [ICPC profile: B9GB7UBU9KIC](https://icpc.global/ICPCID/B9GB7UBU9KIC).
 
-<h2 align="left">💻 Tech Stack</h2>
+## Software and AI
 
-###
+I work on applications and integrations that automate processes, and on agents that connect language models to tools and technical knowledge. My AI work includes agent orchestration, context engineering, tool calling, RAG, knowledge graphs, and Model Context Protocol (MCP).
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="ruby on rails" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
-</div>
+During the CEPEDI software residency, I contributed to applications and to local Llama inference integrated with our team's cloud-hosted learning platform for generating assessment questions.
 
-<br>
+| Area | Technologies and concepts |
+| --- | --- |
+| Software development | Java, Spring Boot, Spring Security, JPA, Ruby on Rails, SQL, PostgreSQL |
+| AI engineering | LLMs, Agent Orchestration, Context Engineering, Tool Calling, RAG, Knowledge Graphs, MCP |
+| Algorithms | C++17, data structures, complexity analysis |
+| Engineering tools | Git, GitHub Actions, Docker, Docker Compose, REST APIs, OpenAPI |
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="abap" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/SAP_Integration_Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="sap integration suite" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/CDS_Views-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="cds views" style="vertical-align:top; margin:4px">
-</div>
+## Selected work
 
-###
+| Repository | What you'll find |
+| --- | --- |
+| [competitive_programming](https://github.com/MarcusCSPereira/competitive_programming) | My C++ notebook, contest solutions, and algorithm studies. |
+| [SpringProfessional_desafio05](https://github.com/MarcusCSPereira/SpringProfessional_desafio05) | A Spring Professional course exercise: a commerce API with Java 21, Spring Boot, JPA, and role-based access control. |
+| [Faculdade_Prog-Concorrente](https://github.com/MarcusCSPereira/Faculdade_Prog-Concorrente) | Java coursework on threads, synchronization, and classic concurrency problems, with JavaFX interfaces. |
+| [MealMatch](https://github.com/MarcusCSPereira/MealMatch) | A team-built desktop application for managing and sharing recipes, using Java, JavaFX, and PostgreSQL. |
+| [rails-notebook-api](https://github.com/MarcusCSPereira/rails-notebook-api) | A Rails study project with versioned APIs, contact management, and token authentication. |
 
-<h2 align="left">🏆 Competitive Programming</h2>
+## Contact
 
-###
-
-<p align="justify">
-Competitive programming is my main hobby and an important part of how I think about software architecture.
-<br><br>
-Solving algorithmic problems strengthens my ability to reason about complexity, data structures, edge cases, constraints and efficient solutions. This directly influences how I design backend systems and integrations: with attention to performance, clarity, scalability and long-term maintainability.
-</p>
-
-###
-
-<h2 align="left">🌐 Socials</h2>
-
-###
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/marcuscspereira/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:contato.marcuscspereira@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
-      </a>
-    </td>
-  </tr>
-</table>
+[LinkedIn](https://www.linkedin.com/in/marcuscspereira/) · [contato.marcuscspereira@gmail.com](mailto:contato.marcuscspereira@gmail.com)
