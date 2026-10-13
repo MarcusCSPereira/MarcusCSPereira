@@ -5,13 +5,25 @@
 ###
 
 <p align="justify">
-I'm Marcus César, a Computer Science student at UESB, with an expected graduation in December 2027. My interests include software development, software architecture, AI agents, and competitive programming.
+I'm Marcus César, a Computer Science student at UESB. <strong>Competitive programming is my main hobby</strong>, and my main interests are algorithms, data structures, and software development.
 <br><br>
-My main stack is centered on <strong>Java with Spring Boot</strong>, <strong>Ruby on Rails</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building applications, REST APIs, and relational database solutions.
+At V360, I work on applications and system integrations with <strong>Java and Spring Boot</strong> and <strong>Ruby on Rails</strong>. I also contribute to projects involving AI.
+</p>
+
+###
+
+<h2 align="left">🏆 Competitive Programming</h2>
+
+###
+
+<p align="justify">
+I practice in <strong>C++17</strong> and keep a <a href="https://github.com/MarcusCSPereira/competitive_programming">competitive programming notebook</a> with contest solutions, algorithm implementations, and study notes.
 <br><br>
-I also work with <strong>AI agents</strong> and <strong>LLMs</strong>, applying <strong>Agent Orchestration</strong>, <strong>Context Engineering</strong>, <strong>Tool Calling</strong>, <strong>RAG</strong>, <strong>Knowledge Graphs</strong>, and <strong>Model Context Protocol (MCP)</strong>. During the CEPEDI software residency, I contributed to local <strong>Llama</strong> inference integrated with our team's cloud-hosted learning platform for generating assessment questions.
+I enjoy comparing approaches to the same problem, analyzing time and memory complexity, and turning an idea into an implementation. My studies include <strong>STL</strong>, <strong>graphs</strong>, <strong>dynamic programming</strong>, <strong>greedy algorithms</strong>, and <strong>number theory</strong>.
 <br><br>
-I approach software development with an architectural mindset, combining application development, system integration experience, and algorithmic reasoning from competitive programming to design reliable and maintainable systems.
+In 2026, I participated in the <strong>ICPC subregional contest</strong>, where my team finished <strong>2nd at our host site</strong>.
+<br><br>
+<a href="https://github.com/MarcusCSPereira/competitive_programming">C++ notebook</a> · <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a>
 </p>
 
 ###
@@ -21,13 +33,11 @@ I approach software development with an architectural mindset, combining applica
 ###
 
 <p align="left">
-🎓 Computer Science student at UESB, expected graduation in December 2027<br>
-💻 Software stack: Java, Spring Boot, Spring Security, JPA, Ruby on Rails, REST APIs and SQL<br>
-🧩 AI agents: LLMs, Agent Orchestration, Context Engineering, Tool Calling, RAG, Knowledge Graphs and MCP<br>
-🔗 Focused on system integration, API design, clean architecture and maintainable software<br>
-🧠 Architectural thinking applied to applications, system integrations and software evolution<br>
-🏆 Competitive programming is my main hobby: C++17, algorithms, data structures and complexity analysis<br>
-🌱 Always improving through study, real-world projects and problem-solving practice
+🏆 Competitive programming in C++17 and ICPC practice<br>
+🧠 Algorithms, data structures, and complexity analysis<br>
+🎓 Computer Science at UESB, expected graduation in December 2027<br>
+💻 Application development with Java, Spring Boot, and Ruby on Rails<br>
+🔗 APIs, relational databases, and system integrations
 </p>
 
 ###
@@ -37,6 +47,7 @@ I approach software development with an architectural mindset, combining applica
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="spring security" style="vertical-align:top; margin:4px">
@@ -44,34 +55,9 @@ I approach software development with an architectural mindset, combining applica
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="ruby on rails" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="sql" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" alt="LLMs" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Agent_Orchestration-7C3AED?style=for-the-badge" alt="agent orchestration" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Knowledge_Graphs-7C3AED?style=for-the-badge" alt="knowledge graphs" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" alt="Model Context Protocol" style="vertical-align:top; margin:4px">
-</div>
-
-###
-
-<h2 align="left">🏆 Competitive Programming</h2>
-
-###
-
-<p align="justify">
-Competitive programming is my main hobby and an important part of how I think about software architecture.
-<br><br>
-Solving algorithmic problems strengthens my ability to reason about complexity, data structures, edge cases, constraints and efficient solutions. This directly influences how I design applications and integrations: with attention to performance, clarity, scalability and long-term maintainability.
-<br><br>
-In 2026, I participated in the ICPC subregional contest. You can find my <a href="https://github.com/MarcusCSPereira/competitive_programming">C++ competitive programming notebook</a> and my <a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC profile</a> here.
-</p>
 
 ###
 
