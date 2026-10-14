@@ -5,7 +5,7 @@
 ###
 
 <p align="justify">
-Sou Marcus César, estudante do 7º semestre de Ciência da Computação na UESB, com foco em desenvolvimento backend, integrações empresariais, arquitetura de software e programação competitiva.
+Sou Marcus César, estudante de Ciência da Computação na UESB, com foco em desenvolvimento backend, integrações empresariais, arquitetura de software e programação competitiva.
 <br><br>
 Minha principal stack é composta por <strong>Ruby on Rails</strong>, <strong>Java com Spring Boot</strong>, <strong>SQL</strong> e <strong>C++</strong>, com experiência no desenvolvimento de sistemas backend, APIs, soluções com bancos de dados relacionais e aplicações com foco em manutenção.
 <br><br>
@@ -19,7 +19,7 @@ Abordo o desenvolvimento de software com uma visão de arquitetura, combinando e
 ###
 
 <p align="left">
-🎓 Estudante do 7º semestre de Ciência da Computação na UESB<br>
+🎓 Estudante de Ciência da Computação na UESB<br>
 💻 Stack backend: Ruby on Rails, Java, Spring Boot, APIs REST, SQL e C++<br>
 🔗 Foco em integração de sistemas, design de APIs, arquitetura limpa e manutenção de software<br>
 🧠 Visão de arquitetura aplicada a sistemas backend, integrações empresariais e evolução de software<br>

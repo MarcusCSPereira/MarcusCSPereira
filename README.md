@@ -5,7 +5,7 @@
 ###
 
 <p align="justify">
-I'm Marcus César, a 7th-semester Computer Science student at UESB, focused on backend development, enterprise integrations, software architecture, and competitive programming.
+I'm Marcus César, a Computer Science student at UESB, focused on backend development, enterprise integrations, software architecture, and competitive programming.
 <br><br>
 My main stack is centered on <strong>Ruby on Rails</strong>, <strong>Java with Spring Boot</strong>, <strong>SQL</strong>, and <strong>C++</strong>, with experience building backend systems, APIs, relational database solutions, and maintainable server-side applications.
 <br><br>
@@ -19,7 +19,7 @@ I approach software development with an architectural mindset, combining backend
 ###
 
 <p align="left">
-🎓 7th-semester Computer Science student at UESB<br>
+🎓 Computer Science student at UESB<br>
 💻 Backend stack: Ruby on Rails, Java, Spring Boot, REST APIs, SQL and C++<br>
 🔗 Focused on system integration, API design, clean architecture and maintainable software<br>
 🧠 Architectural thinking applied to backend systems, enterprise integrations and software evolution<br>
