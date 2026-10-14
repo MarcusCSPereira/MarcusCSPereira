@@ -56,6 +56,10 @@ Também desenvolvo aplicações com <strong>LLMs</strong> e <strong>agentes de I
 Programação competitiva é meu principal hobby e uma parte importante da forma como penso sobre arquitetura de software.
 <br><br>
 Resolver problemas algorítmicos fortalece minha capacidade de raciocinar sobre complexidade, estruturas de dados, casos extremos, restrições e soluções eficientes. Isso influencia diretamente a forma como projeto sistemas backend e integrações, com atenção ao desempenho, à clareza, à escalabilidade e à manutenção a longo prazo.
+<br><br>
+Na <strong>fase sub-regional da Maratona de Programação do ICPC 2026</strong>, minha equipe conquistou o <strong>2º lugar na sede</strong>.
+<br><br>
+<a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a> | <a href="https://github.com/MarcusCSPereira/competitive_programming">Caderno de programação competitiva (C++)</a>
 </p>
 
 ###

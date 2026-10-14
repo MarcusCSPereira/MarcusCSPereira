@@ -56,6 +56,10 @@ I also build applications with <strong>LLMs</strong> and <strong>AI agents</stro
 Competitive programming is my main hobby and an important part of how I think about software architecture.
 <br><br>
 Solving algorithmic problems strengthens my ability to reason about complexity, data structures, edge cases, constraints and efficient solutions. This directly influences how I design backend systems and integrations: with attention to performance, clarity, scalability and long-term maintainability.
+<br><br>
+In the <strong>2026 ICPC South America Brazil First Phase</strong>, my team placed <strong>2nd at our contest site</strong>.
+<br><br>
+<a href="https://icpc.global/ICPCID/B9GB7UBU9KIC">ICPC ID: B9GB7UBU9KIC</a> | <a href="https://github.com/MarcusCSPereira/competitive_programming">Competitive programming notebook (C++)</a>
 </p>
 
 ###
